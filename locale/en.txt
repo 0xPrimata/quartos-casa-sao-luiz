@@ -1,0 +1,39 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Quartos Casa São Luiz
+
+## Skin
+
+### Button
+Button_03A0867D_17FE_CC80_41B6_532E46EF6DB4.label = Contato
+Button_0A30C58C_1E19_C9B9_41BA_B45F0675577D.label = Suíte Nova
+Button_0D62ACF5_1E1F_3F6B_41A1_0881DCD43D3D.label = Suíte
+Button_0D8C4FB8_1E19_D9D9_413A_078F530B07C0.label = Quarto Novo
+Button_10C8C7A9_1E2F_49FA_41B4_99FE4DDEC8EF.label = Suíte
+Button_13C43D80_1E2F_D9A9_41B9_63B5707A06FE.label = Suíte Nova
+Button_180EDB9E_1795_DB80_41B7_9C1747B4C346.label = Contato
+
+## Media
+
+### Title
+panorama_E44A8A09_EE14_01FA_41E1_E6A3F5BB57CB.label = Térreo
+panorama_E7E0A35D_EE14_061B_41E2_D44BA4580DD1.label = WC Suite Nova
+panorama_E7E0D51D_EE14_021B_41EA_72736DA34D59.label = WC Suite
+panorama_E7E1BC4B_EE14_027F_41E1_EE643E9E4BF3.label = Superior
+panorama_E7E90C1B_EE1C_021E_41D2_D0F3B1F92CB1.label = Suite 2
+panorama_E7E9BA22_EE1C_062E_41C7_7F7AE8B93F2D.label = Suite Nova
+panorama_E7E9DE24_EE1C_1E29_41E3_A3C7E7D52D73.label = Suite
+panorama_E7EAF802_EE1C_01EE_41E7_27197C9F792C.label = Suite Nova 2
+panorama_E7EF0484_EE1C_02EA_41C9_81849468CEE6.label = Quarto Novo 2
+panorama_E7EF3636_EE1C_0E16_41E9_C8DC5957994B.label = Quarto Novo
+
+## Action
+
+### URL
+LinkBehaviour_051D3F7F_179B_5C80_41B7_A6966F17C2A4.source = https://casasaoluiz.com.br/contato/
+LinkBehaviour_051D3F7F_179B_5C80_41B7_A6966F17C2A4.source = https://casasaoluiz.com.br/contato/
